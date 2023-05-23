@@ -1,12 +1,9 @@
-## The purpose of this app is to test your skills in .net and angular.  Below you will find a set of tasks to be performed.  You may complete as many or as few as you woudl like.
-
-### Before you begin please fork this repository and work in your own instance. (https://docs.github.com/en/search?query=forking)
-
+## Please Find the answers for few  of the questions asked.
 ## Tasks
 1. Bug Fix:  We have a memory leak somewhere in our application.  The description from the user is as follows:
-	> For my job I have to navigate between people and places.  As the day gets later my browser seems to slow down a lot.
-	
+	> For my job I have to navigate between people and places.  As the day gets later my browser seems to slow down a lot.	
 	The performance team ran some tests and found that memory is going up from 5 MB on load to 2 GB after only a couple of hours.
+	
 2. Bug Fix:  Navigation issue.  The description from the user is as follows:
 	> When I click on the Things nav item nothing happens
 
